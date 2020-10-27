@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		F811A0A82361BFDE00F6D46D /* baekjoon_1260.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F811A0A72361BFDE00F6D46D /* baekjoon_1260.cpp */; };
+		F8276D402548502900A18595 /* baekjoon_2178.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F8276D3F2548502900A18595 /* baekjoon_2178.cpp */; };
 		F8F578E02361CA2100F033B5 /* baekjoon_1922.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F8F578DF2361CA2100F033B5 /* baekjoon_1922.cpp */; };
 /* End PBXBuildFile section */
 
@@ -26,6 +27,7 @@
 /* Begin PBXFileReference section */
 		F811A0A42361BFDE00F6D46D /* baekjoon */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = baekjoon; sourceTree = BUILT_PRODUCTS_DIR; };
 		F811A0A72361BFDE00F6D46D /* baekjoon_1260.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = baekjoon_1260.cpp; sourceTree = "<group>"; };
+		F8276D3F2548502900A18595 /* baekjoon_2178.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = baekjoon_2178.cpp; sourceTree = "<group>"; };
 		F8F578DF2361CA2100F033B5 /* baekjoon_1922.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = baekjoon_1922.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -61,6 +63,7 @@
 			children = (
 				F811A0A72361BFDE00F6D46D /* baekjoon_1260.cpp */,
 				F8F578DF2361CA2100F033B5 /* baekjoon_1922.cpp */,
+				F8276D3F2548502900A18595 /* baekjoon_2178.cpp */,
 			);
 			path = baekjoon;
 			sourceTree = "<group>";
@@ -122,6 +125,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F8F578E02361CA2100F033B5 /* baekjoon_1922.cpp in Sources */,
+				F8276D402548502900A18595 /* baekjoon_2178.cpp in Sources */,
 				F811A0A82361BFDE00F6D46D /* baekjoon_1260.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
