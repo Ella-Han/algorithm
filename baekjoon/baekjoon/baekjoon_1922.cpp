@@ -1,3 +1,4 @@
+#if 0
 //
 //  baekjoon_1922.cpp
 //  baekjoon
@@ -83,3 +84,4 @@ int main() {
     
     return 0;
 }
+#endif
