@@ -1,3 +1,4 @@
+#if 0
 //
 //  beakjoon_2042_구간합 구하기.cpp
 //  baekjoon
@@ -74,3 +75,4 @@ int main() {
     
     return 0;
 }
+#endif
